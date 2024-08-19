@@ -1,0 +1,2 @@
+# forApiTest
+使用Django编写的供接口测试的demo，包括get和post请求接口，响应均为json格式
